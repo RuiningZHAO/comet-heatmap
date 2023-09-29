@@ -1,0 +1,7 @@
+astropy>=4.3
+sbplan>=0.1.0
+skyfield
+numpy
+astroplan
+matplotlib
+mpl_toolkits

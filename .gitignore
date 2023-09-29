@@ -1,0 +1,9 @@
+# .gitignore
+
+dist
+build
+
+bak
+
+__pycache__
+.ipynb_checkpoints
